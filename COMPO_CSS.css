@@ -74,7 +74,7 @@ background-color: var(--primary);
 }
 
 .hero .hero-img {
-    max-width: 500px;
+    max-width: 350px;
     display: block;
     margin: auto;
 
@@ -97,21 +97,4 @@ background-color: var(--primary);
     border: 5rem;
 
 
-}
-.new{
-    text-decoration: none;
-    color: #cbd5e1;
-    text-align: center;
-}
-
-.pad
-{
-    padding: 3rem;
-    margin: 3rem;
-}
-
-.pad2
-{
-    padding:1rem;
-    margin: 1rem;
 }
