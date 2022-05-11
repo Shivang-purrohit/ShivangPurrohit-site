@@ -9,3 +9,30 @@ body
 {
     font-family: 'Montserrat', sans-serif;;
 }
+
+hr{
+    margin: 2rem 0rem;
+}
+.container-center
+{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.link
+{
+    text-decoration: none;
+background-color: var(--primary);
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+   color: #F3F4F6;
+}
+
+.secondary-link
+{
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem ;
+    border: 1px solid var(--primary);
+
+}
