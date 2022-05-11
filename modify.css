@@ -36,3 +36,29 @@ background-color: var(--primary);
     border: 1px solid var(--primary);
 
 }
+
+.for-nav
+{
+    text-decoration: none;
+    color: #F3F4F6;
+}
+
+.list-non-bullet{
+    list-style: none;
+}
+.list-inline
+{
+    display: inline;
+    padding: 2rem;
+}
+
+.nav{
+    font-weight: bold;
+    color:#F3F4F6;
+    font-size: 1.5rem;
+}
+
+.active
+{
+    font-weight:bold ;
+}
