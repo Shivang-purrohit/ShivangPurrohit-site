@@ -25,7 +25,7 @@ hr{
 {
     text-decoration: none;
 background-color: var(--primary);
-    padding: 0.5rem 1rem;
+    padding: 0.2rem 0.5rem;
     border-radius: 0.5rem;
    color: #F3F4F6;
 }
@@ -69,20 +69,21 @@ background-color: var(--primary);
 
 .hero
 {
-    padding: 2rem;
+    
     text-align: center;
 }
 
 .hero .hero-img {
-    max-width: 500px;
+    max-width: 200px;
     display: block;
     margin: auto;
+    padding: 1rem;
 
 }
 .hero .hero-heading
 {
     color: var(--drak-gray);
-    padding-top: 1rem;
+    padding-top: rem;
 }
 
 .section
@@ -102,6 +103,9 @@ background-color: var(--primary);
     text-decoration: none;
     color: #cbd5e1;
     text-align: center;
+    font-size: xx-large;
+    padding: 1rem;
+    
 }
 
 .pad
@@ -116,7 +120,12 @@ background-color: var(--primary);
     margin: 1rem;
 }
 
-p{
-    letter-spacing: 0.1rem;
+.adjustment{
+    font-size: larger;
+    padding: 2rem;
+}
+
+.ol{
+    color: #00BFA6;
 }
 
