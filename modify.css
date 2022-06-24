@@ -36,7 +36,7 @@ background-color: var(--primary);
     padding: 0.5rem 1rem;
     border-radius: 0.5rem ;
     border: 1px solid var(--primary);
-
+    color: #00BFA6;
 }
 
 .for-nav
